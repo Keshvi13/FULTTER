@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:lab_7/EXTRA.dart';
-import 'package:lab_7/EXTRA_2.dart';
 import 'package:lab_7/L7_P2.dart';
 import 'package:lab_7/L7_P3.dart';
 import 'package:lab_7/L7_P4.dart';
